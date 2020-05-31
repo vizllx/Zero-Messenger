@@ -1,0 +1,6 @@
+framework module Pods_ZeroMessenger {
+  umbrella header "Pods-ZeroMessenger-umbrella.h"
+
+  export *
+  module * { export * }
+}
